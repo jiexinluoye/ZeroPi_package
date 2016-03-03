@@ -19,10 +19,10 @@
                     "help": {
                         "online": "http://www.seeedstudio.com/wiki/Main_Page"
                     },
-                    "url": "https://codeload.github.com/jiexinluoye/ZeroPi_package/zip/master",
-                    "archiveFileName": "ZeroPi_package-master.zip",
-                    "checksum": "SHA-256:3C25AC0029660640AE7B8E3668FCEDC3C0A911BC79EDE92C5251F5AA2A59C501",
-                    "size": "576171",
+                    "url": "https://github.com/jiexinluoye/ZeroPi_package/blob/master/Package_Download/Package_Download.zip?raw=true",
+                    "archiveFileName": "Package_Download.zip",
+                    "checksum": "SHA-256:2D8A5DA28DFC7E1C51B770C4DC9060FA2302AEF8EA2BB67BF374B8AFD98FDA0A",
+                    "size": "561024",
                     "boards": [
                         {"name": "Zeropi"}
                     ],
