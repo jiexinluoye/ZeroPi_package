@@ -2,7 +2,7 @@
     "packages": 
     [
         {
-            "name": "ZeroPi",
+            "name": "Arduino",
             "maintainer": "ZeroPi Team",
             "websiteURL": "http://www.seeedstudio.com/",
             "email": "myan@makeblock.cc",
@@ -29,22 +29,22 @@
                     "toolsDependencies": 
                     [
                         {
-                          "packager": "Zeropi",
+                          "packager": "Arduino",
                           "name": "arm-none-eabi-gcc",
                           "version": "4.8.3-2014q1"
                         },
                         {
-                          "packager": "Zeropi",
+                          "packager": "Arduino",
                           "name": "bossac",
                           "version": "1.6.1-arduino"
                         },
                         {
-                          "packager": "Zeropi",
+                          "packager": "Arduino",
                           "name": "openocd",
                           "version": "0.9.0-arduino"
                         },
                         {
-                          "packager": "Zeropi",
+                          "packager": "Arduino",
                           "name": "CMSIS",
                           "version": "4.0.0-atmel"
                         }
