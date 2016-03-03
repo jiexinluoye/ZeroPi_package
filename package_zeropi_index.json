@@ -19,10 +19,10 @@
                     "help": {
                         "online": "http://www.seeedstudio.com/wiki/Main_Page"
                     },
-                    "url": "https://github.com/jiexinluoye/ZeroPi_package/blob/master/Package_Download/Package_Download.zip?raw=true",
-                    "archiveFileName": "Package_Download.zip",
-                    "checksum": "SHA-256:13D2FE8F039A7E0B02D646C7E1495E32C275A645F55558FC2F3E55CC1A704519",
-                    "size": "559254",
+                    "url": "http://downloads.arduino.cc/cores/avr-1.6.2.tar.bz2",
+                    "archiveFileName": "avr-1.6.2.tar.bz2",
+                    "checksum": "SHA-256:2909a4c6dd6d7497e7e1b5fcaa2f66a100271417510f3a68593b65af8ff78c1c",
+                    "size": "4877442",
                     "boards": [
                         {"name": "zeropi"}
                     ],
