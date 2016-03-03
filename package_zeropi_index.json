@@ -21,8 +21,8 @@
                     },
                     "url": "https://github.com/jiexinluoye/ZeroPi_package/blob/master/Package_Download/Package_Download.zip?raw=true",
                     "archiveFileName": "Package_Download.zip",
-                    "checksum": "SHA-256:2D8A5DA28DFC7E1C51B770C4DC9060FA2302AEF8EA2BB67BF374B8AFD98FDA0A",
-                    "size": "561024",
+                    "checksum": "SHA-256:8307C5F21AFF6A78C4A4D80CD8B781D2FC7E7DA5BE50F16D9F1774BFA7C2A97A",
+                    "size": "556376",
                     "boards": [
                         {"name": "zeropi"}
                     ],
