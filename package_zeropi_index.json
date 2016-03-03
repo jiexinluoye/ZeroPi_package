@@ -12,9 +12,9 @@
             "platforms": 
             [
                 {
-                    "name": "Arduino ZeroPi(32-bits ARM Cortex-M0+)",
+                    "name": "ZeroPi(32-bits ARM Cortex-M0+)",
                     "architecture": "samd",
-                    "version": "1.0.0",
+                    "version": "1.6.4",
                     "category": "Arduino",
                     "help": {
                         "online": "http://www.seeedstudio.com/wiki/Main_Page"
@@ -24,7 +24,7 @@
                     "checksum": "SHA-256:3C25AC0029660640AE7B8E3668FCEDC3C0A911BC79EDE92C5251F5AA2A59C501",
                     "size": "576171",
                     "boards": [
-                        {"name": "Makeblock zeropi"}
+                        {"name": "Zeropi"}
                     ],
                     "toolsDependencies": 
                     [
