@@ -4,10 +4,10 @@
         {
             "name": "ZeroPi",
             "maintainer": "ZeroPi Team",
-            "websiteURL": "http://www.seeedstudio.com/",
+            "websiteURL": "https://github.com/ZeroPiProject/ZeroPi_package",
             "email": "myan@makeblock.cc",
             "help": {
-                "online": "http://www.seeedstudio.com/wiki/Main_Page"
+                "online": "https://github.com/ZeroPiProject/ZeroPi_package"
             },
             "platforms": 
             [
@@ -17,12 +17,12 @@
                     "version": "1.6.4",
                     "category": "Arduino",
                     "help": {
-                        "online": "http://www.seeedstudio.com/wiki/Main_Page"
+                        "online": "https://github.com/ZeroPiProject/ZeroPi_package"
                     },
                     "url": "https://raw.githubusercontent.com/jiexinluoye/ZeroPi_package/master/Package_Download/ZeroPi-1.6.4.zip",
                     "archiveFileName": "ZeroPi-1.6.4.zip",
-                    "checksum": "SHA-256:A36AB08DCCA105488A5342C69310B4286A15DD557FEF123E0794DF07579FC974",
-                    "size": "548846",
+                    "checksum": "SHA-256:908B65791F04F021C4455B14D0D7A160DB9F3A9491723F0279D2828EE423404B",
+                    "size": "551565",
                     "boards": [
                         {"name": "zeropi"}
                     ],
